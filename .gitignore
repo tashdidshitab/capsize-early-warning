@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/runs_*.npz
+data/feat_*.npz
+results/model_*.pkl

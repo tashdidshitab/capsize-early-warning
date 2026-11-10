@@ -1,0 +1,12 @@
+{
+  "title": "Supplementary material: Real-time capsizing-risk warning for ships in extreme seas — code, data summaries and results",
+  "upload_type": "software",
+  "description": "Code, per-voyage Monte Carlo summaries, test-set predictions and result files that reproduce every number and figure in the paper 'Real-time capsizing-risk warning for ships in extreme seas: a hybrid nonlinear-dynamics and probabilistic machine-learning decision-support framework' (submitted to Maritime Transport Research).",
+  "creators": [
+    {"name": "Shitab, Tashdid Ahmed", "affiliation": "Military Institute of Science and Technology (MIST), Dhaka, Bangladesh", "orcid": "0009-0004-5822-5576"},
+    {"name": "Emon, Md. Emam Hossain", "affiliation": "Military Institute of Science and Technology (MIST), Dhaka, Bangladesh", "orcid": "0009-0007-1749-1431"}
+  ],
+  "license": "MIT",
+  "keywords": ["parametric roll", "capsizing", "early warning", "nonlinear dynamics", "deep ensembles", "ship operations"],
+  "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Supplementary material: Real-time capsizing-risk warning for ships in extreme seas"
+message: "If you use this code or data, please cite it as below."
+type: software
+authors:
+  - family-names: Shitab
+    given-names: Tashdid Ahmed
+    affiliation: "Department of Naval Architecture and Marine Engineering, Military Institute of Science and Technology (MIST), Dhaka, Bangladesh"
+    orcid: "https://orcid.org/0009-0004-5822-5576"
+  - family-names: Emon
+    given-names: Md. Emam Hossain
+    affiliation: "Department of Naval Architecture and Marine Engineering, Military Institute of Science and Technology (MIST), Dhaka, Bangladesh"
+    orcid: "https://orcid.org/0009-0007-1749-1431"
+version: 1.0.0
+date-released: 2026-11-10
+license: MIT
+keywords:
+  - parametric roll
+  - capsizing
+  - early warning
+  - nonlinear dynamics
+  - deep ensembles
+  - ship operations
